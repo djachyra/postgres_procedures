@@ -1,5 +1,5 @@
 # postgres_procedures
-Postgres Procedures (task called "proposals")
+Postgres Procedures (task called "proposals"), made using Postgres 12 and pgAdmin 4
 
 Follow few steps:
 * Please take a look on my database model
