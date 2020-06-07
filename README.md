@@ -4,7 +4,7 @@ Postgres Procedures (task called "proposals")
 Follow few steps:
 * Please take a look on my database model
 https://dbdiagram.io/d/5ed9d1d3e81ffb416774db2a
-* Create DB schema (i did it on PostgreSQL 11) --> create_db.sql
+* Create DB schema (i did it on PostgreSQL 11) --> _create_db.sql_
 * Insert some data --> _insert_data.sql_
 * Create procedure 1 --> _user_proposals.sql_ 
   Call the procedure:
